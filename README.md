@@ -1,7 +1,5 @@
 # instagram-hashtag-analytics
 
-# Instagram Hashtag Analytics
-
 This is a simple web app for testing Instagram Hashtag Analytics functionality. The app allows users to log in with test credentials and simulate the search for hashtag analytics. This project is intended to demonstrate the app's functionality for review purposes.
 
 ## Table of Contents
